@@ -9,12 +9,6 @@ import java.util.ArrayList;
 
 public class DBControl {
 
-	/*
-	 * Instantiate a DBControl in the GUI to get access to all of its functions
-	 * DB Information: Change at your discretion -------------- Benton's Info:
-	 * String url = "jdbc:mysql://localhost:3306/157aDB"; String user = "root";
-	 * String password = "sheep157a";
-	 */
 	String url = "jdbc:mysql://localhost:3306/157aDB";
 	String user = "root";
 	String password = "sheep157a";
